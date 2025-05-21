@@ -1,0 +1,13 @@
+{
+  // … your other settings …
+  "emojisense.languages": {
+    "markdown": true,
+    "plaintext": true,
+    "json": true,
+
+    // enable in JS/React files:
+    "javascript": true,
+    "javascriptreact": true,
+    "typescriptreact": true
+  }
+}
